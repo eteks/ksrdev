@@ -1,0 +1,120 @@
+.portfolio_menu {
+    margin-bottom: 48px;
+    margin-top: 22px;
+    overflow: hidden;
+    text-align: center;
+}
+.portfolio_menu ul {
+    list-style: outside none none;
+    text-align: center;
+}
+.portfolio_menu ul li {
+    display: inline-block;
+}
+.portfolio_menu ul li a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #363940;
+    display: inline-block;
+    margin: 4px;
+    padding: 8px 10px;
+    text-transform: uppercase;
+}
+.portfolio_content {
+    margin-top: 36px;
+    overflow: hidden;
+}
+.portfolio_single_content {
+    left: 0;
+    margin-bottom: 30px;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+   }
+   .portfolio_single_content img {
+    left: 0;
+    position: relative;
+    top: 0;
+    transition: all 1s ease 0s;
+    width: 100%;
+    z-index: 6;
+}
+.button:hover, .mobilenav li:hover, .portfolio_single_content img {
+    cursor: pointer;
+}
+.active_prot_menu a, .portfolio_menu ul li a:hover {
+    background: #00b3fe none repeat scroll 0 0 !important;
+    color: #fff !important;
+}
+
+
+.portfolio_single_content div a,
+.portfolio_single_content div span,
+button.contact {
+    text-transform: uppercase
+}
+.portfolio_single_content div {
+    background: #00b3fe;
+}
+.portfolio_single_content:hover img {
+    -o-transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2)
+}
+.portfolio_single_content .canv {
+    width: 100%!important;
+    height: 100%!important
+}
+
+.portfolio_single_content div+div {
+    background: rgba(255, 255, 255, .9);
+    bottom: -100%;
+    color: #FFC000;
+    font-weight: 700;
+    left: 0;
+    margin: 0;
+    min-height: 90px;
+    padding: 31px 5px 0 10px;
+    position: absolute;
+    width: 100%;
+    z-index: 12;
+    border-top: 0
+}
+
+.portfolio_single_content div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform: scale(0);
+    transition: all .6s;
+    opacity: 0
+}
+
+.portfolio_single_content:hover div {
+    transform: scale(1);
+    opacity: 1
+}
+
+.portfolio_single_content div a {
+    color: #FFF;
+    /*display: block;*/
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 40%;
+    padding-bottom: 10px
+}
+
+.portfolio_single_content div span {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0
+}
