@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="ksr_fav.ico">
-    <title> KSR Developer</title>
+    <title> KSR Real Value </title>
 	<!-- Css -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>About Us.</h3>
+				<h3>About Us</h3>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -44,8 +44,8 @@
 	 		
 	 		<div class="col-lg-6">
 		 		<h4>More About Our Company.</h4>
-		 		<p>KSR  Developer is a Chennai based real estate developers Since 2007, who provides affordable investments, matching your budget and requirements. It has been and will be a family run Organisation with Professionalism being key strong Point to provide our customer with innovative solutions. It has and will always be a family run organisation, with professionalism being the key strong point together with a lot of personal interaction with our clients. </p>
-		 		<p>Our expert consultants guide you and provide you with best services in this Industry and help you to identify areas best suited to your requirements and needs. KSR Developer is an attempt to bring transparency, structure and credibility to real estate transactions.</p>
+		 		<p>KSR Real Value is a Chennai based real estate developers Since 2007, who provides affordable investments, matching your budget and requirements. It has been and will be a family run Organisation with Professionalism being key strong Point to provide our customer with innovative solutions. It has and will always be a family run organisation, with professionalism being the key strong point together with a lot of personal interaction with our clients. </p>
+		 		<p>Our expert consultants guide you and provide you with best services in this Industry and help you to identify areas best suited to your requirements and needs. KSR Real Value is an attempt to bring transparency, structure and credibility to real estate transactions.</p>
 		 		<p>We would assist customers identify properties both Residential Villas  & Residential Plots,Residential apartment across Chennai to begin with for outright purchase through our dedicated team of real estate professionals.</p>
  				<p><br/><a href="contact.php" class="btn btn-theme">Contact Us</a></p>
 	 		</div>
@@ -78,7 +78,7 @@
 				</div><!-- he wrap -->								
 				<h4>Our Mission</h4>
 				<div class="hline"></div>
-				<p class="mission">Ksr is one of the Chennai fastest growing property development company offering strategically located. To provide housing to the needy at affordable cost to all segments of society with better living standards and facilities, with utmost satisfaction to our Customers for their investment, through professionalism, quality and social responsibility.</p>				
+				<p class="mission">KSR Real Value is one of the Chennai fastest growing property development company offering strategically located. To provide housing to the needy at affordable cost to all segments of society with better living standards and facilities, with utmost satisfaction to our Customers for their investment, through professionalism, quality and social responsibility.</p>				
 		 	</div><!--col-lg-3 -->
 
 		 	<div class="col-lg-6 col-md-6 col-sm-6">

@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="ksr_fav.ico">
-    <title>KSR</title>
+    <title>KSR Real Value</title>
     <!-- Css -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">

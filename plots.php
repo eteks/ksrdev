@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="ksr_fav.ico">
-    <title> KSR </title>
+    <title> KSR Real Value </title>
     <!-- Css -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -62,7 +62,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Balaji Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/balaji/balaji1.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -75,7 +75,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Balaji Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/balaji/balaji2.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -88,7 +88,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Balaji Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/balaji/balaji4.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -100,7 +100,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Balaji Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/balaji/balaji5.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -112,7 +112,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Balaji Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/balaji/balaji3.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -149,7 +149,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Sarathi Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/sarathi/sarathi1.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -162,7 +162,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Sarathi Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/sarathi/sarathi4.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -175,7 +175,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Sarathi Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/sarathi/sarathi2.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                               <!--  <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -188,7 +188,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Sarathi Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/sarathi/sarathi3.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -200,7 +200,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Sarathi Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/sarathi/sarathi6.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -237,7 +237,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/18.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -250,7 +250,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/8.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -263,7 +263,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/shankari2.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -276,7 +276,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/shankari3.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -289,7 +289,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/shankari4.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->
@@ -301,7 +301,7 @@
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">Shankari Nagar</h3>
                                 <a data-rel="prettyPhoto" href="assets/img/portfolio/shankari/shankari1.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                                <!-- <a href="single-project.php" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a> -->
                             </div><!-- he bg -->
                         </div><!-- he view -->      
                     </div><!-- he wrap -->

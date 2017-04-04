@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="ksr_fav.ico">
-    <title> KSR </title>
+    <title> KSR Real Value </title>
     <!-- Css -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
@@ -22,7 +22,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Projects.</h3>
+				<h3>Projects</h3>
 			</div><!-- row -->
 	    </div> <!-- container -->
 	</div><!-- blue -->

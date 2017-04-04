@@ -25,7 +25,7 @@ if(isset($_POST['contact_submit'])) {
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="ksr_fav.ico">
-    <title>KSR</title>
+    <title> KSR Real Value </title>
     <!-- Css  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -42,7 +42,7 @@ if(isset($_POST['contact_submit'])) {
 	<div id="blue" class="contact_blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Contact Us.</h3>
+				<h3>Contact us</h3>
 			</div><!-- row -->
 	    </div> <!-- container -->
 	</div><!-- blue -->
@@ -55,7 +55,7 @@ if(isset($_POST['contact_submit'])) {
 	 		<div class="col-lg-8">
 	 			<h4>Just Get In Touch!</h4>
 	 			<div class="hline"></div>
-		 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+		 			<p>Please feel free to contact us if you have any clarifications or queries. Kindly use the below form for contacting us at ease.</p>
 		 			<p class="success"> Mail Sent Successfully  </p>
 		 			<p class="empty_error_msg"> Please fill all required(*) fields  </p>
 		 			<p class="email_error_msg"> Please enter valid email address  </p>
@@ -98,7 +98,7 @@ if(isset($_POST['contact_submit'])) {
 		 				
 		 			</p>
 		 			<p>
-		 				Website: <a href="http://etekchnoservices.com/ksrv3/">www.etekchnoservices.com/ksrv3</a><br/>
+		 				Website: <a href="http://etekchnoservices.com/ksrv3/">www.etekchnoservices.com/ksrv4</a><br/>
 		 				
 		 			</p>
 	 		</div>

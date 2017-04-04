@@ -29,7 +29,7 @@
     <div id="blue">
         <div class="container">
             <div class="row">
-                <h3>Projects.</h3>
+                <h3>Projects</h3>
             </div><!-- /row -->
         </div> <!-- /container -->
     </div><!-- /blue -->

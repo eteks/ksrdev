@@ -4,7 +4,7 @@
 		 		<div class="col-lg-4">
 		 			<h4>About</h4>
 		 			<div class="hline-w"></div>
-		 			<p>KSR Developer is an attempt to bring transparency, structure and credibility to real estate transactions.</p>
+		 			<p>KSR Real Value is an attempt to bring transparency, structure and credibility to real estate transactions.</p>
 		 		</div>
 		 		<div class="col-lg-4">
 		 			<h4>Social Links</h4>
