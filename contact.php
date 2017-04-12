@@ -5,8 +5,8 @@ if(isset($_POST['contact_submit'])) {
   $contact_subject = $_POST['contact_subject'];
   $contact_message = $_POST['contact_message'];
   $email_subject = "CONTACTUS DETAILS";
-  $to = "senthilvelan@zoho.com";
-  // $to = "info@etekchnoservices.com";
+  $to = "write2ksrdeveloper@gmail.com";
+  // $to = "senthilvelan@zoho.com";
 
   $headers = "From: " . $contact_email . "\r\n";
   $headers .= "Reply-To: ". $contact_email . "\r\n";
@@ -87,9 +87,9 @@ if(isset($_POST['contact_submit'])) {
 	 		<div class="col-lg-4">
 		 		<h4>Our Address</h4>
 		 		<div class="hline"></div>
-		 			<p>       
-		 				No : 31/2,<br/> 
-		 				RV Nagar, <br/>		 				
+		 			<p>      
+		 				KSR Real Value, <br/>
+		 				No : 31/2, RV Nagar, <br/>		 				
 		 				Chennai - 600083<br/>
 		 				Contact no: 044-43565999 / 7200033382
 		 			</p>
@@ -98,7 +98,7 @@ if(isset($_POST['contact_submit'])) {
 		 				
 		 			</p>
 		 			<p>
-		 				Website: <a href="http://etekchnoservices.com/ksrv3/">www.etekchnoservices.com/ksrv4</a><br/>
+		 				Website: <a href="http://ksrrealvalue.com">www.ksrrealvalue.com</a><br/>
 		 				
 		 			</p>
 	 		</div>
@@ -119,7 +119,7 @@ if(isset($_POST['contact_submit'])) {
   	<script src="assets/js/jquery.isotope.min.js"></script>
   	<script src="assets/js/custom.js"></script>
 
-  	 <script src="https://maps.googleapis.com/maps/api/js"></script>
+  	 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbuVxM8vd876DdJ3vDZMakcC98TUwOGYs&callback=initMap" type="text/javascript"></script>
         <script type="application/javascript">
             function initialize() {
               var mapOptions = {
@@ -133,7 +133,7 @@ if(isset($_POST['contact_submit'])) {
 		      	'<div id="siteNotice">'+
 		     	'</div>'+
 		     	'<div id="bodyContent">'+
-		      	'<p><b>KSR Developer</b></p>'+
+		      	'<p><b>KSR Real Value</b></p>'+
 		      	'<p>No : 31/2,RV Nagar,Chennai - 600083</p>'+
 		      	'<p>write2ksrdeveloper@gmail.com</p>'+
 		      	'<p>044-43565999 / 7200033382</p>'+
@@ -148,7 +148,7 @@ if(isset($_POST['contact_submit'])) {
                 animation:google.maps.Animation.BOUNCE,
                 icon: 'assets/img/map-marker.png',
                 map: map,
-                title: 'KSR Developer'
+                title: 'KSR Real Value'
               });
 
             }
